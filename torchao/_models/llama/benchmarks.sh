@@ -1,4 +1,4 @@
-export CHECKPOINT_PATH=../../../checkpoints # path to checkpoints folder
+export CHECKPOINT_PATH=/content/models/Llama-3.1-8B/original # path to checkpoints folder
 
 # README BENCHMARKS
 # export MODEL_REPO=meta-llama/Llama-2-7b-chat-hf
